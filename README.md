@@ -2,6 +2,7 @@
 With this layout, we were required to build it using float layout.
 
 <center><a href="https://ibb.co/StNF06C"><img src="https://i.ibb.co/R32RPgw/Screen-Shot-2024-01-13-at-7-23-04-PM.png" alt="Screen-Shot-2024-01-13-at-7-23-04-PM" border="0"></a>
+
 ![Website Layout]</center>
   
 ## <b>How It's Made:</b>
