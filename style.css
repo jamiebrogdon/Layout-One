@@ -1,0 +1,92 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+  font-family: "Libre Baskerville", sans-serif;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+main .left {
+  height: 650px;
+  width: 50%;
+  float: left;
+}  
+.left img{
+  margin-top:40px;
+  width: 675px;
+  float: right;
+}
+main .right {
+  height: 650px;
+  width: 50%;
+  float: left;
+}
+h1{ 
+  margin-top: 185px;
+  padding-left: 10px;
+  padding-right: 150px;
+  font-size: 45px;
+  letter-spacing: .03em;
+  margin-bottom: 0;
+} 
+.right section > img{
+  width: 300px;  
+  float: left;
+}
+p{
+  padding-left: 10px;
+  padding-right: 150px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  line-height: 170%;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+} 
+section span{
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 15%;
+  float: left;
+  padding: 10px 0px;
+  text-align: center;
+  background-color: #2f66f3;
+  border-radius: 5px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+  height: 55px;
+  box-sizing: border-box;
+  border-bottom: 1px solid lightslategray;
+  font-family: "Roboto", sans-serif;
+  background-image: url(KhanLong.png);
+  background-size: cover;
+  background-position: center;
+}
+footer {
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
