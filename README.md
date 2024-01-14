@@ -1,9 +1,10 @@
 # <b>Layout One - Khan Academy</b>
 With this layout, we were required to build it using float layout.
 
-![Website Layout] <a href="https://ibb.co/pPtMjwf"><img src="https://i.ibb.co/Qc2TvQP/Screen-Shot-2024-01-13-at-7-00-48-PM.png" alt="Screen-Shot-2024-01-13-at-7-00-48-PM" border="0"></a><br/>
-
-## How It's Made:
+<center><a href="https://ibb.co/StNF06C"><img src="https://i.ibb.co/R32RPgw/Screen-Shot-2024-01-13-at-7-23-04-PM.png" alt="Screen-Shot-2024-01-13-at-7-23-04-PM" border="0"></a>
+![Website Layout]</center>
+  
+## <b>How It's Made:</b>
 
 **Tech used:** HTML, CSS
 
